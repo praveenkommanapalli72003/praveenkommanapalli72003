@@ -6,20 +6,21 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kommanapalli praveen&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/kommanapalli praveen?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=praveenkommanapalli72003&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/praveenkommanapalli72003?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen" alt="Open to Work" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=900&lines=👨‍💻Python Full-Stack+Developer;🤖+AI+%26+Web developer;⚡+Problem+Solver;🚀project buiding using AI;🎯+Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=900&lines=👨‍💻+Full-Stack+Developer;🤖+AI+%26+Web+Tech+Explorer;⚡+Problem+Solver;🚀+Hackathon+Builder;🎯+Always+Learning+New+Things" />
 </p>
 
 <!-- Animated Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
+
 
 ## 👨‍💻 About Me  
 
