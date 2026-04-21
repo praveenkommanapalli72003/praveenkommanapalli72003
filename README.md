@@ -30,7 +30,7 @@
 - 🌱 Exploring **LangChain, Generative AI & Cloud Technologies**  
 - 👯 Looking to collaborate on **Open Source AI Projects**  
 - 💡 Passionate about **Real-time apps & AI-powered solutions**  
-- 💬 Ask me about: **HTML5,CSS3,Javascript,react,Python,FlaskAPI/Django, APIs, AI/ML/DL**  
+- 💬 Ask me about: **HTML5,CSS3,Javascript,react,Python,FlaskAPI/Django, APIs, AI/ML/DL-Basics**  
 - ⚡ Fun fact: **I solve coding problems for fun on weekends!**
 - 📫 Email: **[praveenkommanapalli7@gmail.com](mailto:praveenkommanapalli7@gmail.com)**  
 
@@ -43,17 +43,17 @@
 
 ### 🎯 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,java,c&perline=6" />
+  <img src="https://skillicons.dev/icons?i=py,js,java&perline=6" />
 </p>
 
 ### 🌐 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,sass&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,sass&perline=6" />
 </p>
 
 ### 🔧 Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,fastapi&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi&perline=5" />
 </p>
 
 ### 🗄️ Databases & Cloud
